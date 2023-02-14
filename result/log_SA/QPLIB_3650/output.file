@@ -1,0 +1,1795 @@
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 906.000000;Current Best: 906.000000;time: 157.874702
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 36.361416
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 42.426610
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 34.584766
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 35.701114
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 35.709020
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 35.847283
+Iteration: 8;Local Best: 908.000000;Current Best: 908.000000;time: 36.087121
+Iteration: 9;Local Best: 908.000000;Current Best: 908.000000;time: 35.256302
+Iteration: 10;Local Best: 908.000000;Current Best: 908.000000;time: 33.890160
+Iteration: 11;Local Best: 908.000000;Current Best: 908.000000;time: 34.766219
+Iteration: 12;Local Best: 908.000000;Current Best: 908.000000;time: 35.449476
+
+QPLIB_3650.qs 946 0.00273657 908 554.02s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 910.000000;Current Best: 910.000000;time: 180.964286
+Iteration: 2;Local Best: 910.000000;Current Best: 910.000000;time: 30.622973
+Iteration: 3;Local Best: 910.000000;Current Best: 910.000000;time: 31.994723
+Iteration: 4;Local Best: 910.000000;Current Best: 910.000000;time: 32.313990
+Iteration: 5;Local Best: 910.000000;Current Best: 910.000000;time: 31.166715
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 32.050853
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 31.808666
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 32.318391
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 32.077407
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 31.785990
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 31.454487
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 59.084110
+
+QPLIB_3650.qs 946 0.00273657 912 557.70s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 904.000000;Current Best: 904.000000;time: 239.791080
+Iteration: 2;Local Best: 904.000000;Current Best: 904.000000;time: 32.984078
+Iteration: 3;Local Best: 904.000000;Current Best: 904.000000;time: 31.067287
+Iteration: 4;Local Best: 904.000000;Current Best: 904.000000;time: 33.048221
+Iteration: 5;Local Best: 904.000000;Current Best: 904.000000;time: 32.481931
+Iteration: 6;Local Best: 904.000000;Current Best: 904.000000;time: 33.321672
+Iteration: 7;Local Best: 904.000000;Current Best: 904.000000;time: 33.835989
+Iteration: 8;Local Best: 904.000000;Current Best: 904.000000;time: 33.292968
+Iteration: 9;Local Best: 904.000000;Current Best: 904.000000;time: 33.302569
+Iteration: 10;Local Best: 904.000000;Current Best: 904.000000;time: 32.706391
+Iteration: 11;Local Best: 904.000000;Current Best: 904.000000;time: 32.522598
+
+QPLIB_3650.qs 946 0.00273657 904 568.41s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 902.000000;Current Best: 902.000000;time: 259.511503
+Iteration: 2;Local Best: 902.000000;Current Best: 902.000000;time: 30.370450
+Iteration: 3;Local Best: 904.000000;Current Best: 904.000000;time: 55.552383
+Iteration: 4;Local Best: 904.000000;Current Best: 904.000000;time: 27.745844
+Iteration: 5;Local Best: 904.000000;Current Best: 904.000000;time: 28.781602
+Iteration: 6;Local Best: 906.000000;Current Best: 906.000000;time: 55.216909
+Iteration: 7;Local Best: 906.000000;Current Best: 906.000000;time: 27.484053
+Iteration: 8;Local Best: 906.000000;Current Best: 906.000000;time: 27.827006
+Iteration: 9;Local Best: 906.000000;Current Best: 906.000000;time: 28.039382
+
+QPLIB_3650.qs 946 0.00273657 906 540.58s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 906.000000;Current Best: 906.000000;time: 163.397577
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 36.916207
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 26.045695
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 27.092564
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 26.247083
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 26.572240
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 51.473067
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 25.052309
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 26.212342
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 44.527554
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 24.807692
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 26.989806
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 26.351565
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 24.314058
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 26.885807
+
+QPLIB_3650.qs 946 0.00273657 914 582.94s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 906.000000;Current Best: 906.000000;time: 173.201476
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 26.098261
+Iteration: 3;Local Best: 906.000000;Current Best: 906.000000;time: 25.754331
+Iteration: 4;Local Best: 906.000000;Current Best: 906.000000;time: 26.807000
+Iteration: 5;Local Best: 906.000000;Current Best: 906.000000;time: 26.490905
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 55.870828
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 22.878718
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 23.076854
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 22.720371
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 24.036381
+Iteration: 11;Local Best: 912.000000;Current Best: 912.000000;time: 31.758794
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 28.378721
+Iteration: 13;Local Best: 912.000000;Current Best: 912.000000;time: 27.833613
+Iteration: 14;Local Best: 912.000000;Current Best: 912.000000;time: 28.171952
+Iteration: 15;Local Best: 912.000000;Current Best: 912.000000;time: 27.906986
+
+QPLIB_3650.qs 946 0.00273657 912 571.04s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 894.000000;Current Best: 894.000000;time: 162.722583
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 113.492171
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 32.367265
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 32.904829
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 31.367062
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 32.546885
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 31.220421
+Iteration: 8;Local Best: 908.000000;Current Best: 908.000000;time: 31.944232
+Iteration: 9;Local Best: 908.000000;Current Best: 908.000000;time: 31.124682
+Iteration: 10;Local Best: 908.000000;Current Best: 908.000000;time: 31.825046
+Iteration: 11;Local Best: 908.000000;Current Best: 908.000000;time: 32.886627
+
+QPLIB_3650.qs 946 0.00273657 908 564.45s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 916.000000;Current Best: 916.000000;time: 257.413524
+Iteration: 2;Local Best: 916.000000;Current Best: 916.000000;time: 30.176396
+Iteration: 3;Local Best: 916.000000;Current Best: 916.000000;time: 29.774104
+Iteration: 4;Local Best: 916.000000;Current Best: 916.000000;time: 29.707204
+Iteration: 5;Local Best: 916.000000;Current Best: 916.000000;time: 29.509378
+Iteration: 6;Local Best: 916.000000;Current Best: 916.000000;time: 30.067801
+Iteration: 7;Local Best: 916.000000;Current Best: 916.000000;time: 29.387386
+Iteration: 8;Local Best: 916.000000;Current Best: 916.000000;time: 30.155201
+Iteration: 9;Local Best: 916.000000;Current Best: 916.000000;time: 29.451827
+Iteration: 10;Local Best: 916.000000;Current Best: 916.000000;time: 29.551277
+Iteration: 11;Local Best: 916.000000;Current Best: 916.000000;time: 29.765771
+
+QPLIB_3650.qs 946 0.00273657 916 555.01s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 898.000000;Current Best: 898.000000;time: 177.148704
+Iteration: 2;Local Best: 902.000000;Current Best: 902.000000;time: 62.924087
+Iteration: 3;Local Best: 910.000000;Current Best: 910.000000;time: 76.580497
+Iteration: 4;Local Best: 910.000000;Current Best: 910.000000;time: 24.725952
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 45.664865
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 24.334036
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 23.211676
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 23.109861
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 23.520445
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 23.315667
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 23.957881
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 24.169400
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 23.469201
+
+QPLIB_3650.qs 946 0.00273657 914 576.18s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 208.086326
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 29.512785
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 29.936468
+Iteration: 4;Local Best: 910.000000;Current Best: 910.000000;time: 49.481735
+Iteration: 5;Local Best: 910.000000;Current Best: 910.000000;time: 29.993301
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 29.250804
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 29.694026
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 29.178446
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 29.132086
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 29.332472
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 30.182057
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 29.873184
+Iteration: 13;Local Best: 910.000000;Current Best: 910.000000;time: 29.882966
+
+QPLIB_3650.qs 946 0.00273657 910 583.59s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 916.000000;Current Best: 916.000000;time: 220.843682
+Iteration: 2;Local Best: 918.000000;Current Best: 918.000000;time: 61.227724
+Iteration: 3;Local Best: 918.000000;Current Best: 918.000000;time: 30.347916
+Iteration: 4;Local Best: 918.000000;Current Best: 918.000000;time: 31.383463
+Iteration: 5;Local Best: 918.000000;Current Best: 918.000000;time: 31.015122
+Iteration: 6;Local Best: 918.000000;Current Best: 918.000000;time: 31.581442
+Iteration: 7;Local Best: 918.000000;Current Best: 918.000000;time: 30.443620
+Iteration: 8;Local Best: 918.000000;Current Best: 918.000000;time: 30.977849
+Iteration: 9;Local Best: 918.000000;Current Best: 918.000000;time: 30.709245
+Iteration: 10;Local Best: 918.000000;Current Best: 918.000000;time: 30.257130
+Iteration: 11;Local Best: 918.000000;Current Best: 918.000000;time: 31.323464
+
+QPLIB_3650.qs 946 0.00273657 918 560.16s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 906.000000;Current Best: 906.000000;time: 140.920629
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 31.051358
+Iteration: 3;Local Best: 912.000000;Current Best: 912.000000;time: 78.886502
+Iteration: 4;Local Best: 912.000000;Current Best: 912.000000;time: 26.197210
+Iteration: 5;Local Best: 912.000000;Current Best: 912.000000;time: 27.250211
+Iteration: 6;Local Best: 912.000000;Current Best: 912.000000;time: 25.837309
+Iteration: 7;Local Best: 912.000000;Current Best: 912.000000;time: 24.757951
+Iteration: 8;Local Best: 912.000000;Current Best: 912.000000;time: 25.525435
+Iteration: 9;Local Best: 912.000000;Current Best: 912.000000;time: 25.314920
+Iteration: 10;Local Best: 912.000000;Current Best: 912.000000;time: 25.935945
+Iteration: 11;Local Best: 912.000000;Current Best: 912.000000;time: 25.618917
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 26.731665
+Iteration: 13;Local Best: 912.000000;Current Best: 912.000000;time: 26.409824
+Iteration: 14;Local Best: 912.000000;Current Best: 912.000000;time: 25.680627
+Iteration: 15;Local Best: 912.000000;Current Best: 912.000000;time: 25.378884
+Iteration: 16;Local Best: 912.000000;Current Best: 912.000000;time: 27.059811
+
+QPLIB_3650.qs 946 0.00273657 912 588.61s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 904.000000;Current Best: 904.000000;time: 150.760242
+Iteration: 2;Local Best: 904.000000;Current Best: 904.000000;time: 28.056152
+Iteration: 3;Local Best: 910.000000;Current Best: 910.000000;time: 40.304584
+Iteration: 4;Local Best: 910.000000;Current Best: 910.000000;time: 26.889517
+Iteration: 5;Local Best: 910.000000;Current Best: 910.000000;time: 27.461620
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 27.575380
+Iteration: 7;Local Best: 912.000000;Current Best: 912.000000;time: 34.110947
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 50.351138
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 27.191934
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 27.087718
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 26.865682
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 26.647804
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 28.216500
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 27.928392
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 28.129151
+
+QPLIB_3650.qs 946 0.00273657 914 577.63s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 910.000000;Current Best: 910.000000;time: 169.150999
+Iteration: 2;Local Best: 910.000000;Current Best: 910.000000;time: 29.919178
+Iteration: 3;Local Best: 912.000000;Current Best: 912.000000;time: 41.200849
+Iteration: 4;Local Best: 912.000000;Current Best: 912.000000;time: 29.603145
+Iteration: 5;Local Best: 912.000000;Current Best: 912.000000;time: 29.205386
+Iteration: 6;Local Best: 912.000000;Current Best: 912.000000;time: 32.387133
+Iteration: 7;Local Best: 912.000000;Current Best: 912.000000;time: 32.482756
+Iteration: 8;Local Best: 912.000000;Current Best: 912.000000;time: 32.598241
+Iteration: 9;Local Best: 912.000000;Current Best: 912.000000;time: 32.162167
+Iteration: 10;Local Best: 912.000000;Current Best: 912.000000;time: 32.919145
+Iteration: 11;Local Best: 912.000000;Current Best: 912.000000;time: 32.074126
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 33.429503
+Iteration: 13;Local Best: 912.000000;Current Best: 912.000000;time: 33.184756
+
+QPLIB_3650.qs 946 0.00273657 912 560.37s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 142.758587
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 31.570915
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 31.286735
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 31.432687
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 30.892539
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 31.838123
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 29.978350
+Iteration: 8;Local Best: 908.000000;Current Best: 908.000000;time: 30.234917
+Iteration: 9;Local Best: 908.000000;Current Best: 908.000000;time: 29.370947
+Iteration: 10;Local Best: 908.000000;Current Best: 908.000000;time: 29.572772
+Iteration: 11;Local Best: 908.000000;Current Best: 908.000000;time: 29.693693
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 40.890044
+Iteration: 13;Local Best: 912.000000;Current Best: 912.000000;time: 29.462843
+Iteration: 14;Local Best: 912.000000;Current Best: 912.000000;time: 28.545090
+Iteration: 15;Local Best: 912.000000;Current Best: 912.000000;time: 28.553909
+
+QPLIB_3650.qs 946 0.00273657 912 576.13s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 912.000000;Current Best: 912.000000;time: 182.261572
+Iteration: 2;Local Best: 914.000000;Current Best: 914.000000;time: 60.478816
+Iteration: 3;Local Best: 914.000000;Current Best: 914.000000;time: 31.912065
+Iteration: 4;Local Best: 914.000000;Current Best: 914.000000;time: 32.429641
+Iteration: 5;Local Best: 916.000000;Current Best: 916.000000;time: 39.390881
+Iteration: 6;Local Best: 916.000000;Current Best: 916.000000;time: 31.721712
+Iteration: 7;Local Best: 916.000000;Current Best: 916.000000;time: 32.250895
+Iteration: 8;Local Best: 916.000000;Current Best: 916.000000;time: 32.526188
+Iteration: 9;Local Best: 916.000000;Current Best: 916.000000;time: 32.379613
+Iteration: 10;Local Best: 916.000000;Current Best: 916.000000;time: 33.382360
+Iteration: 11;Local Best: 916.000000;Current Best: 916.000000;time: 33.137667
+Iteration: 12;Local Best: 916.000000;Current Best: 916.000000;time: 31.829308
+
+QPLIB_3650.qs 946 0.00273657 916 573.75s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 906.000000;Current Best: 906.000000;time: 171.525683
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 50.214524
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 28.689010
+Iteration: 4;Local Best: 914.000000;Current Best: 914.000000;time: 69.821147
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 26.726226
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 25.278373
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 26.525411
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 26.093131
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 26.724294
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 25.388789
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 26.417118
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 25.815647
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 26.136201
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 26.161201
+
+QPLIB_3650.qs 946 0.00273657 914 581.57s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 904.000000;Current Best: 904.000000;time: 153.932431
+Iteration: 2;Local Best: 904.000000;Current Best: 904.000000;time: 29.316848
+Iteration: 3;Local Best: 904.000000;Current Best: 904.000000;time: 32.620885
+Iteration: 4;Local Best: 906.000000;Current Best: 906.000000;time: 40.304556
+Iteration: 5;Local Best: 906.000000;Current Best: 906.000000;time: 31.578672
+Iteration: 6;Local Best: 906.000000;Current Best: 906.000000;time: 31.463798
+Iteration: 7;Local Best: 906.000000;Current Best: 906.000000;time: 31.335668
+Iteration: 8;Local Best: 906.000000;Current Best: 906.000000;time: 32.077838
+Iteration: 9;Local Best: 906.000000;Current Best: 906.000000;time: 32.212884
+Iteration: 10;Local Best: 906.000000;Current Best: 906.000000;time: 31.899379
+Iteration: 11;Local Best: 906.000000;Current Best: 906.000000;time: 31.567973
+Iteration: 12;Local Best: 906.000000;Current Best: 906.000000;time: 31.143909
+Iteration: 13;Local Best: 906.000000;Current Best: 906.000000;time: 30.193555
+Iteration: 14;Local Best: 906.000000;Current Best: 906.000000;time: 31.502482
+
+QPLIB_3650.qs 946 0.00273657 906 571.20s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 904.000000;Current Best: 904.000000;time: 193.171174
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 54.958776
+Iteration: 3;Local Best: 906.000000;Current Best: 906.000000;time: 30.097833
+Iteration: 4;Local Best: 906.000000;Current Best: 906.000000;time: 31.640727
+Iteration: 5;Local Best: 906.000000;Current Best: 906.000000;time: 31.362266
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 61.399104
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 30.886851
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 33.550773
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 32.436337
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 32.769563
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 33.497480
+
+QPLIB_3650.qs 946 0.00273657 910 565.82s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 214.948040
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 32.111721
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 32.487405
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 31.561114
+Iteration: 5;Local Best: 910.000000;Current Best: 910.000000;time: 40.338622
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 30.548316
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 30.464181
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 30.388693
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 29.632893
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 29.896002
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 30.132380
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 29.451460
+
+QPLIB_3650.qs 946 0.00273657 910 562.01s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 914.000000;Current Best: 914.000000;time: 151.757209
+Iteration: 2;Local Best: 914.000000;Current Best: 914.000000;time: 25.760235
+Iteration: 3;Local Best: 916.000000;Current Best: 916.000000;time: 48.413720
+Iteration: 4;Local Best: 916.000000;Current Best: 916.000000;time: 24.761715
+Iteration: 5;Local Best: 916.000000;Current Best: 916.000000;time: 25.453202
+Iteration: 6;Local Best: 916.000000;Current Best: 916.000000;time: 25.221745
+Iteration: 7;Local Best: 916.000000;Current Best: 916.000000;time: 25.263003
+Iteration: 8;Local Best: 916.000000;Current Best: 916.000000;time: 25.777168
+Iteration: 9;Local Best: 916.000000;Current Best: 916.000000;time: 24.911066
+Iteration: 10;Local Best: 916.000000;Current Best: 916.000000;time: 26.328906
+Iteration: 11;Local Best: 916.000000;Current Best: 916.000000;time: 26.100594
+Iteration: 12;Local Best: 918.000000;Current Best: 918.000000;time: 39.650104
+Iteration: 13;Local Best: 918.000000;Current Best: 918.000000;time: 24.890194
+Iteration: 14;Local Best: 918.000000;Current Best: 918.000000;time: 23.165867
+Iteration: 15;Local Best: 918.000000;Current Best: 918.000000;time: 24.344054
+Iteration: 16;Local Best: 918.000000;Current Best: 918.000000;time: 24.845419
+
+QPLIB_3650.qs 946 0.00273657 918 566.70s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 904.000000;Current Best: 904.000000;time: 157.523634
+Iteration: 2;Local Best: 904.000000;Current Best: 904.000000;time: 27.692068
+Iteration: 3;Local Best: 910.000000;Current Best: 910.000000;time: 84.211279
+Iteration: 4;Local Best: 912.000000;Current Best: 912.000000;time: 35.327371
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 45.708635
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 28.721661
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 28.422016
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 28.081343
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 28.263192
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 28.733728
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 28.291630
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 29.018577
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 28.009890
+
+QPLIB_3650.qs 946 0.00273657 914 578.06s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 906.000000;Current Best: 906.000000;time: 181.321799
+Iteration: 2;Local Best: 914.000000;Current Best: 914.000000;time: 75.861678
+Iteration: 3;Local Best: 914.000000;Current Best: 914.000000;time: 27.029862
+Iteration: 4;Local Best: 914.000000;Current Best: 914.000000;time: 26.799883
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 28.219410
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 28.321077
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 26.787964
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 27.891556
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 27.825664
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 27.229905
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 26.163327
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 26.594770
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 25.693767
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 25.811179
+
+QPLIB_3650.qs 946 0.00273657 914 581.60s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 902.000000;Current Best: 902.000000;time: 142.890687
+Iteration: 2;Local Best: 902.000000;Current Best: 902.000000;time: 28.690917
+Iteration: 3;Local Best: 904.000000;Current Best: 904.000000;time: 40.754186
+Iteration: 4;Local Best: 904.000000;Current Best: 904.000000;time: 28.236835
+Iteration: 5;Local Best: 904.000000;Current Best: 904.000000;time: 26.987702
+Iteration: 6;Local Best: 904.000000;Current Best: 904.000000;time: 27.946680
+Iteration: 7;Local Best: 904.000000;Current Best: 904.000000;time: 29.219670
+Iteration: 8;Local Best: 904.000000;Current Best: 904.000000;time: 27.780648
+Iteration: 9;Local Best: 904.000000;Current Best: 904.000000;time: 28.001584
+Iteration: 10;Local Best: 904.000000;Current Best: 904.000000;time: 28.189926
+Iteration: 11;Local Best: 904.000000;Current Best: 904.000000;time: 29.457291
+Iteration: 12;Local Best: 904.000000;Current Best: 904.000000;time: 29.852327
+Iteration: 13;Local Best: 906.000000;Current Best: 906.000000;time: 35.803445
+Iteration: 14;Local Best: 906.000000;Current Best: 906.000000;time: 27.106612
+Iteration: 15;Local Best: 906.000000;Current Best: 906.000000;time: 27.240034
+Iteration: 16;Local Best: 906.000000;Current Best: 906.000000;time: 27.064469
+
+QPLIB_3650.qs 946 0.00273657 906 585.28s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 181.852016
+Iteration: 2;Local Best: 910.000000;Current Best: 910.000000;time: 51.226757
+Iteration: 3;Local Best: 910.000000;Current Best: 910.000000;time: 31.952419
+Iteration: 4;Local Best: 910.000000;Current Best: 910.000000;time: 33.316611
+Iteration: 5;Local Best: 910.000000;Current Best: 910.000000;time: 34.216629
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 33.555433
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 33.448136
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 34.242801
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 33.713641
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 33.231620
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 33.898614
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 33.188716
+
+QPLIB_3650.qs 946 0.00273657 910 567.90s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 902.000000;Current Best: 902.000000;time: 181.527931
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 60.829574
+Iteration: 3;Local Best: 906.000000;Current Best: 906.000000;time: 29.780285
+Iteration: 4;Local Best: 906.000000;Current Best: 906.000000;time: 29.595121
+Iteration: 5;Local Best: 906.000000;Current Best: 906.000000;time: 29.769337
+Iteration: 6;Local Best: 906.000000;Current Best: 906.000000;time: 30.049703
+Iteration: 7;Local Best: 906.000000;Current Best: 906.000000;time: 32.453964
+Iteration: 8;Local Best: 906.000000;Current Best: 906.000000;time: 31.096157
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 42.688784
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 29.277338
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 29.898167
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 29.888284
+
+QPLIB_3650.qs 946 0.00273657 910 556.91s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 147.953524
+Iteration: 2;Local Best: 910.000000;Current Best: 910.000000;time: 43.204494
+Iteration: 3;Local Best: 910.000000;Current Best: 910.000000;time: 32.960793
+Iteration: 4;Local Best: 910.000000;Current Best: 910.000000;time: 32.578825
+Iteration: 5;Local Best: 910.000000;Current Best: 910.000000;time: 32.851234
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 32.106675
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 32.082315
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 32.877631
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 31.516384
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 33.200230
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 32.269908
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 33.444186
+Iteration: 13;Local Best: 910.000000;Current Best: 910.000000;time: 30.909173
+Iteration: 14;Local Best: 910.000000;Current Best: 910.000000;time: 32.606800
+
+QPLIB_3650.qs 946 0.00273657 910 580.61s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 902.000000;Current Best: 902.000000;time: 217.945639
+Iteration: 2;Local Best: 904.000000;Current Best: 904.000000;time: 59.727982
+Iteration: 3;Local Best: 904.000000;Current Best: 904.000000;time: 31.950977
+Iteration: 4;Local Best: 904.000000;Current Best: 904.000000;time: 33.656278
+Iteration: 5;Local Best: 904.000000;Current Best: 904.000000;time: 34.979703
+Iteration: 6;Local Best: 904.000000;Current Best: 904.000000;time: 34.179934
+Iteration: 7;Local Best: 904.000000;Current Best: 904.000000;time: 34.516307
+Iteration: 8;Local Best: 906.000000;Current Best: 906.000000;time: 37.192548
+Iteration: 9;Local Best: 908.000000;Current Best: 908.000000;time: 61.430877
+
+QPLIB_3650.qs 946 0.00273657 908 545.63s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 900.000000;Current Best: 900.000000;time: 217.887891
+Iteration: 2;Local Best: 900.000000;Current Best: 900.000000;time: 29.027703
+Iteration: 3;Local Best: 904.000000;Current Best: 904.000000;time: 38.768207
+Iteration: 4;Local Best: 906.000000;Current Best: 906.000000;time: 29.309125
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 36.664107
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 26.621503
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 28.027741
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 50.706076
+Iteration: 9;Local Best: 912.000000;Current Best: 912.000000;time: 56.598762
+Iteration: 10;Local Best: 912.000000;Current Best: 912.000000;time: 27.021572
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 28.606105
+
+QPLIB_3650.qs 946 0.00273657 914 569.29s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 888.000000;Current Best: 888.000000;time: 116.029236
+Iteration: 2;Local Best: 904.000000;Current Best: 904.000000;time: 97.484826
+Iteration: 3;Local Best: 906.000000;Current Best: 906.000000;time: 30.786297
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 29.575590
+Iteration: 5;Local Best: 910.000000;Current Best: 910.000000;time: 35.380073
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 25.850428
+Iteration: 7;Local Best: 912.000000;Current Best: 912.000000;time: 44.590095
+Iteration: 8;Local Best: 912.000000;Current Best: 912.000000;time: 25.215409
+Iteration: 9;Local Best: 912.000000;Current Best: 912.000000;time: 24.082133
+Iteration: 10;Local Best: 912.000000;Current Best: 912.000000;time: 24.067904
+Iteration: 11;Local Best: 912.000000;Current Best: 912.000000;time: 23.580601
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 24.760707
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 42.914771
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 24.048486
+
+QPLIB_3650.qs 946 0.00273657 914 568.42s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 910.000000;Current Best: 910.000000;time: 198.505155
+Iteration: 2;Local Best: 910.000000;Current Best: 910.000000;time: 28.930264
+Iteration: 3;Local Best: 910.000000;Current Best: 910.000000;time: 30.384396
+Iteration: 4;Local Best: 910.000000;Current Best: 910.000000;time: 30.845393
+Iteration: 5;Local Best: 910.000000;Current Best: 910.000000;time: 31.244463
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 31.186148
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 31.385317
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 30.131603
+Iteration: 9;Local Best: 912.000000;Current Best: 912.000000;time: 36.148194
+Iteration: 10;Local Best: 912.000000;Current Best: 912.000000;time: 30.158589
+Iteration: 11;Local Best: 912.000000;Current Best: 912.000000;time: 30.488724
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 30.678830
+Iteration: 13;Local Best: 912.000000;Current Best: 912.000000;time: 30.891669
+
+QPLIB_3650.qs 946 0.00273657 912 571.03s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 900.000000;Current Best: 900.000000;time: 155.102173
+Iteration: 2;Local Best: 902.000000;Current Best: 902.000000;time: 33.430277
+Iteration: 3;Local Best: 906.000000;Current Best: 906.000000;time: 61.382147
+Iteration: 4;Local Best: 912.000000;Current Best: 912.000000;time: 66.203681
+Iteration: 5;Local Best: 912.000000;Current Best: 912.000000;time: 31.053620
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 40.174347
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 29.167087
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 29.094035
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 30.373772
+Iteration: 10;Local Best: 918.000000;Current Best: 918.000000;time: 48.671983
+Iteration: 11;Local Best: 918.000000;Current Best: 918.000000;time: 29.370338
+
+QPLIB_3650.qs 946 0.00273657 918 554.07s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 916.000000;Current Best: 916.000000;time: 158.152214
+Iteration: 2;Local Best: 916.000000;Current Best: 916.000000;time: 24.428359
+Iteration: 3;Local Best: 916.000000;Current Best: 916.000000;time: 22.974271
+Iteration: 4;Local Best: 916.000000;Current Best: 916.000000;time: 25.336319
+Iteration: 5;Local Best: 916.000000;Current Best: 916.000000;time: 25.016322
+Iteration: 6;Local Best: 916.000000;Current Best: 916.000000;time: 23.985323
+Iteration: 7;Local Best: 916.000000;Current Best: 916.000000;time: 24.711264
+Iteration: 8;Local Best: 918.000000;Current Best: 918.000000;time: 38.274564
+Iteration: 9;Local Best: 918.000000;Current Best: 918.000000;time: 24.024407
+Iteration: 10;Local Best: 918.000000;Current Best: 918.000000;time: 24.097138
+Iteration: 11;Local Best: 918.000000;Current Best: 918.000000;time: 22.998204
+Iteration: 12;Local Best: 918.000000;Current Best: 918.000000;time: 24.343580
+Iteration: 13;Local Best: 918.000000;Current Best: 918.000000;time: 23.330083
+Iteration: 14;Local Best: 918.000000;Current Best: 918.000000;time: 23.627489
+Iteration: 15;Local Best: 918.000000;Current Best: 918.000000;time: 23.751136
+Iteration: 16;Local Best: 918.000000;Current Best: 918.000000;time: 23.138157
+Iteration: 17;Local Best: 918.000000;Current Best: 918.000000;time: 21.968803
+Iteration: 18;Local Best: 920.000000;Current Best: 920.000000;time: 43.719965
+
+QPLIB_3650.qs 946 0.00273657 920 597.93s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 902.000000;Current Best: 902.000000;time: 150.569120
+Iteration: 2;Local Best: 914.000000;Current Best: 914.000000;time: 74.718736
+Iteration: 3;Local Best: 914.000000;Current Best: 914.000000;time: 24.426647
+Iteration: 4;Local Best: 914.000000;Current Best: 914.000000;time: 25.112402
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 24.895299
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 25.185933
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 24.513950
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 25.080035
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 25.435427
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 24.269273
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 24.669102
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 23.668790
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 24.266385
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 23.716410
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 25.506497
+Iteration: 16;Local Best: 914.000000;Current Best: 914.000000;time: 25.513969
+
+QPLIB_3650.qs 946 0.00273657 914 571.60s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 143.077749
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 23.528754
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 24.544887
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 24.425614
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 24.523962
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 26.047623
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 36.978984
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 23.746759
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 24.412468
+Iteration: 10;Local Best: 912.000000;Current Best: 912.000000;time: 28.454742
+Iteration: 11;Local Best: 912.000000;Current Best: 912.000000;time: 23.869177
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 24.571167
+Iteration: 13;Local Best: 912.000000;Current Best: 912.000000;time: 23.404975
+Iteration: 14;Local Best: 912.000000;Current Best: 912.000000;time: 23.836534
+Iteration: 15;Local Best: 912.000000;Current Best: 912.000000;time: 24.165367
+Iteration: 16;Local Best: 912.000000;Current Best: 912.000000;time: 22.721069
+Iteration: 17;Local Best: 912.000000;Current Best: 912.000000;time: 23.236538
+Iteration: 18;Local Best: 912.000000;Current Best: 912.000000;time: 22.547113
+Iteration: 19;Local Best: 912.000000;Current Best: 912.000000;time: 22.852201
+
+QPLIB_3650.qs 946 0.00273657 912 591.00s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 906.000000;Current Best: 906.000000;time: 207.976452
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 27.274684
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 37.746323
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 26.936335
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 27.229835
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 27.639915
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 44.532706
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 24.441591
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 24.382434
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 23.823926
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 25.102706
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 25.346022
+Iteration: 13;Local Best: 910.000000;Current Best: 910.000000;time: 24.199663
+Iteration: 14;Local Best: 910.000000;Current Best: 910.000000;time: 24.743290
+
+QPLIB_3650.qs 946 0.00273657 910 571.42s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 140.028748
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 23.920043
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 25.489054
+Iteration: 4;Local Best: 910.000000;Current Best: 910.000000;time: 41.449349
+Iteration: 5;Local Best: 910.000000;Current Best: 910.000000;time: 23.796419
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 23.861353
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 23.948978
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 24.228867
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 24.200891
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 23.959697
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 23.567622
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 24.808458
+Iteration: 13;Local Best: 910.000000;Current Best: 910.000000;time: 24.360952
+Iteration: 14;Local Best: 910.000000;Current Best: 910.000000;time: 24.199980
+Iteration: 15;Local Best: 910.000000;Current Best: 910.000000;time: 24.201505
+Iteration: 16;Local Best: 910.000000;Current Best: 910.000000;time: 24.160150
+Iteration: 17;Local Best: 910.000000;Current Best: 910.000000;time: 25.365603
+Iteration: 18;Local Best: 910.000000;Current Best: 910.000000;time: 24.958225
+
+QPLIB_3650.qs 946 0.00273657 910 570.55s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 890.000000;Current Best: 890.000000;time: 105.628143
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 98.440725
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 26.277925
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 26.396686
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 26.219243
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 52.268944
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 25.472912
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 26.145113
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 25.505991
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 25.333211
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 24.045554
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 25.173629
+Iteration: 13;Local Best: 910.000000;Current Best: 910.000000;time: 25.520283
+Iteration: 14;Local Best: 910.000000;Current Best: 910.000000;time: 25.100847
+Iteration: 15;Local Best: 910.000000;Current Best: 910.000000;time: 23.878200
+Iteration: 16;Local Best: 910.000000;Current Best: 910.000000;time: 24.394908
+
+QPLIB_3650.qs 946 0.00273657 910 585.85s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 157.523555
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 26.766566
+Iteration: 3;Local Best: 910.000000;Current Best: 910.000000;time: 52.838730
+Iteration: 4;Local Best: 910.000000;Current Best: 910.000000;time: 26.145483
+Iteration: 5;Local Best: 910.000000;Current Best: 910.000000;time: 25.216949
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 25.765767
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 25.523360
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 25.444160
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 26.121775
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 26.001954
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 25.787387
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 25.327756
+Iteration: 13;Local Best: 910.000000;Current Best: 910.000000;time: 26.018283
+Iteration: 14;Local Best: 910.000000;Current Best: 910.000000;time: 24.992827
+Iteration: 15;Local Best: 910.000000;Current Best: 910.000000;time: 25.150032
+Iteration: 16;Local Best: 910.000000;Current Best: 910.000000;time: 25.306681
+
+QPLIB_3650.qs 946 0.00273657 910 569.98s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 207.192388
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 29.229679
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 28.951330
+Iteration: 4;Local Best: 910.000000;Current Best: 910.000000;time: 57.935551
+Iteration: 5;Local Best: 910.000000;Current Best: 910.000000;time: 27.857272
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 26.655885
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 27.541006
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 28.526331
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 27.728977
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 27.767373
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 27.679326
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 27.001791
+Iteration: 13;Local Best: 910.000000;Current Best: 910.000000;time: 25.568352
+
+QPLIB_3650.qs 946 0.00273657 910 569.69s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 906.000000;Current Best: 906.000000;time: 127.309193
+Iteration: 2;Local Best: 910.000000;Current Best: 910.000000;time: 26.736078
+Iteration: 3;Local Best: 918.000000;Current Best: 918.000000;time: 52.731313
+Iteration: 4;Local Best: 918.000000;Current Best: 918.000000;time: 24.174764
+Iteration: 5;Local Best: 918.000000;Current Best: 918.000000;time: 24.505008
+Iteration: 6;Local Best: 918.000000;Current Best: 918.000000;time: 23.810003
+Iteration: 7;Local Best: 918.000000;Current Best: 918.000000;time: 23.728105
+Iteration: 8;Local Best: 918.000000;Current Best: 918.000000;time: 24.431357
+Iteration: 9;Local Best: 918.000000;Current Best: 918.000000;time: 24.758323
+Iteration: 10;Local Best: 918.000000;Current Best: 918.000000;time: 25.377200
+Iteration: 11;Local Best: 918.000000;Current Best: 918.000000;time: 23.955679
+Iteration: 12;Local Best: 918.000000;Current Best: 918.000000;time: 24.306454
+Iteration: 13;Local Best: 918.000000;Current Best: 918.000000;time: 23.730696
+Iteration: 14;Local Best: 918.000000;Current Best: 918.000000;time: 24.292744
+Iteration: 15;Local Best: 918.000000;Current Best: 918.000000;time: 24.727492
+Iteration: 16;Local Best: 918.000000;Current Best: 918.000000;time: 24.965270
+Iteration: 17;Local Best: 918.000000;Current Best: 918.000000;time: 24.642607
+Iteration: 18;Local Best: 918.000000;Current Best: 918.000000;time: 23.931901
+
+QPLIB_3650.qs 946 0.00273657 918 572.16s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 900.000000;Current Best: 900.000000;time: 142.094160
+Iteration: 2;Local Best: 900.000000;Current Best: 900.000000;time: 31.035139
+Iteration: 3;Local Best: 906.000000;Current Best: 906.000000;time: 48.399429
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 31.240755
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 25.684081
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 26.607906
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 25.952353
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 51.411067
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 25.005332
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 24.345843
+Iteration: 11;Local Best: 912.000000;Current Best: 912.000000;time: 36.573102
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 24.334318
+Iteration: 13;Local Best: 912.000000;Current Best: 912.000000;time: 23.487717
+Iteration: 14;Local Best: 912.000000;Current Best: 912.000000;time: 23.630047
+Iteration: 15;Local Best: 912.000000;Current Best: 912.000000;time: 23.006358
+
+QPLIB_3650.qs 946 0.00273657 912 562.86s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 912.000000;Current Best: 912.000000;time: 112.613714
+Iteration: 2;Local Best: 912.000000;Current Best: 912.000000;time: 22.429368
+Iteration: 3;Local Best: 912.000000;Current Best: 912.000000;time: 22.080661
+Iteration: 4;Local Best: 912.000000;Current Best: 912.000000;time: 22.819631
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 34.898872
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 21.713237
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 22.567523
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 22.548950
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 22.908159
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 21.237928
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 21.584846
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 22.965304
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 23.036046
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 21.705504
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 22.694458
+Iteration: 16;Local Best: 914.000000;Current Best: 914.000000;time: 22.480579
+Iteration: 17;Local Best: 914.000000;Current Best: 914.000000;time: 21.800487
+Iteration: 18;Local Best: 914.000000;Current Best: 914.000000;time: 22.179234
+Iteration: 19;Local Best: 914.000000;Current Best: 914.000000;time: 22.459361
+Iteration: 20;Local Best: 914.000000;Current Best: 914.000000;time: 23.314223
+Iteration: 21;Local Best: 914.000000;Current Best: 914.000000;time: 22.524331
+Iteration: 22;Local Best: 914.000000;Current Best: 914.000000;time: 22.480294
+
+QPLIB_3650.qs 946 0.00273657 914 595.09s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 904.000000;Current Best: 904.000000;time: 142.042694
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 35.096970
+Iteration: 3;Local Best: 906.000000;Current Best: 906.000000;time: 25.102454
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 49.121617
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 24.816180
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 25.343981
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 25.914790
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 33.988607
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 26.535572
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 25.621867
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 52.340825
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 27.221473
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 26.081395
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 25.882353
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 25.987143
+
+QPLIB_3650.qs 946 0.00273657 914 571.15s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 170.132952
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 28.949957
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 29.065241
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 27.354175
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 28.615929
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 28.216514
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 28.295172
+Iteration: 8;Local Best: 912.000000;Current Best: 912.000000;time: 60.078879
+Iteration: 9;Local Best: 912.000000;Current Best: 912.000000;time: 27.777794
+Iteration: 10;Local Best: 912.000000;Current Best: 912.000000;time: 28.401941
+Iteration: 11;Local Best: 912.000000;Current Best: 912.000000;time: 29.064117
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 28.148664
+Iteration: 13;Local Best: 912.000000;Current Best: 912.000000;time: 28.651647
+Iteration: 14;Local Best: 912.000000;Current Best: 912.000000;time: 28.810344
+
+QPLIB_3650.qs 946 0.00273657 912 571.61s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 185.453500
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 31.080227
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 31.020604
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 31.710736
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 31.530814
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 31.985926
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 32.136895
+Iteration: 8;Local Best: 908.000000;Current Best: 908.000000;time: 30.973096
+Iteration: 9;Local Best: 908.000000;Current Best: 908.000000;time: 31.873212
+Iteration: 10;Local Best: 908.000000;Current Best: 908.000000;time: 31.885387
+Iteration: 11;Local Best: 908.000000;Current Best: 908.000000;time: 30.771837
+Iteration: 12;Local Best: 908.000000;Current Best: 908.000000;time: 31.022404
+Iteration: 13;Local Best: 908.000000;Current Best: 908.000000;time: 31.002408
+
+QPLIB_3650.qs 946 0.00273657 908 562.50s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 894.000000;Current Best: 894.000000;time: 104.715366
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 83.719813
+Iteration: 3;Local Best: 912.000000;Current Best: 912.000000;time: 40.115119
+Iteration: 4;Local Best: 912.000000;Current Best: 912.000000;time: 21.233911
+Iteration: 5;Local Best: 912.000000;Current Best: 912.000000;time: 20.989055
+Iteration: 6;Local Best: 912.000000;Current Best: 912.000000;time: 21.572366
+Iteration: 7;Local Best: 912.000000;Current Best: 912.000000;time: 20.715522
+Iteration: 8;Local Best: 912.000000;Current Best: 912.000000;time: 20.699158
+Iteration: 9;Local Best: 912.000000;Current Best: 912.000000;time: 20.024318
+Iteration: 10;Local Best: 912.000000;Current Best: 912.000000;time: 21.205235
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 39.484193
+Iteration: 12;Local Best: 916.000000;Current Best: 916.000000;time: 25.026698
+Iteration: 13;Local Best: 916.000000;Current Best: 916.000000;time: 18.990884
+Iteration: 14;Local Best: 916.000000;Current Best: 916.000000;time: 19.416819
+Iteration: 15;Local Best: 916.000000;Current Best: 916.000000;time: 19.532748
+Iteration: 16;Local Best: 916.000000;Current Best: 916.000000;time: 19.433514
+Iteration: 17;Local Best: 916.000000;Current Best: 916.000000;time: 19.352980
+Iteration: 18;Local Best: 916.000000;Current Best: 916.000000;time: 19.323566
+Iteration: 19;Local Best: 916.000000;Current Best: 916.000000;time: 18.949897
+
+QPLIB_3650.qs 946 0.00273657 916 574.55s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 900.000000;Current Best: 900.000000;time: 173.178248
+Iteration: 2;Local Best: 912.000000;Current Best: 912.000000;time: 79.308386
+Iteration: 3;Local Best: 912.000000;Current Best: 912.000000;time: 27.924236
+Iteration: 4;Local Best: 912.000000;Current Best: 912.000000;time: 26.623758
+Iteration: 5;Local Best: 912.000000;Current Best: 912.000000;time: 27.967565
+Iteration: 6;Local Best: 912.000000;Current Best: 912.000000;time: 28.032566
+Iteration: 7;Local Best: 912.000000;Current Best: 912.000000;time: 27.461426
+Iteration: 8;Local Best: 912.000000;Current Best: 912.000000;time: 28.334701
+Iteration: 9;Local Best: 912.000000;Current Best: 912.000000;time: 28.200251
+Iteration: 10;Local Best: 912.000000;Current Best: 912.000000;time: 28.285613
+Iteration: 11;Local Best: 912.000000;Current Best: 912.000000;time: 27.826529
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 28.871701
+Iteration: 13;Local Best: 912.000000;Current Best: 912.000000;time: 28.049190
+
+QPLIB_3650.qs 946 0.00273657 912 560.12s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 900.000000;Current Best: 900.000000;time: 160.720167
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 86.082678
+Iteration: 3;Local Best: 906.000000;Current Best: 906.000000;time: 29.529210
+Iteration: 4;Local Best: 906.000000;Current Best: 906.000000;time: 29.077868
+Iteration: 5;Local Best: 906.000000;Current Best: 906.000000;time: 29.773757
+Iteration: 6;Local Best: 906.000000;Current Best: 906.000000;time: 30.110449
+Iteration: 7;Local Best: 906.000000;Current Best: 906.000000;time: 30.663109
+Iteration: 8;Local Best: 906.000000;Current Best: 906.000000;time: 29.652903
+Iteration: 9;Local Best: 906.000000;Current Best: 906.000000;time: 31.105721
+Iteration: 10;Local Best: 906.000000;Current Best: 906.000000;time: 29.850465
+Iteration: 11;Local Best: 906.000000;Current Best: 906.000000;time: 29.134434
+Iteration: 12;Local Best: 906.000000;Current Best: 906.000000;time: 29.732552
+Iteration: 13;Local Best: 906.000000;Current Best: 906.000000;time: 29.617667
+
+QPLIB_3650.qs 946 0.00273657 906 575.10s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 171.590943
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 31.527625
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 30.311022
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 32.279777
+Iteration: 5;Local Best: 910.000000;Current Best: 910.000000;time: 61.796281
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 30.695412
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 29.387609
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 28.364283
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 29.098018
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 30.117550
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 29.891379
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 30.570787
+Iteration: 13;Local Best: 910.000000;Current Best: 910.000000;time: 29.206657
+
+QPLIB_3650.qs 946 0.00273657 910 564.89s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 904.000000;Current Best: 904.000000;time: 200.492049
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 60.865175
+Iteration: 3;Local Best: 910.000000;Current Best: 910.000000;time: 45.045759
+Iteration: 4;Local Best: 910.000000;Current Best: 910.000000;time: 29.372755
+Iteration: 5;Local Best: 912.000000;Current Best: 912.000000;time: 39.255071
+Iteration: 6;Local Best: 912.000000;Current Best: 912.000000;time: 30.211982
+Iteration: 7;Local Best: 912.000000;Current Best: 912.000000;time: 28.827375
+Iteration: 8;Local Best: 912.000000;Current Best: 912.000000;time: 28.970469
+Iteration: 9;Local Best: 912.000000;Current Best: 912.000000;time: 29.030730
+Iteration: 10;Local Best: 912.000000;Current Best: 912.000000;time: 29.144427
+Iteration: 11;Local Best: 912.000000;Current Best: 912.000000;time: 28.948403
+
+QPLIB_3650.qs 946 0.00273657 912 550.22s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 906.000000;Current Best: 906.000000;time: 205.013027
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 28.681192
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 43.121874
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 26.755496
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 27.336400
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 47.415918
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 25.756275
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 25.580711
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 25.777477
+Iteration: 10;Local Best: 912.000000;Current Best: 912.000000;time: 46.979664
+Iteration: 11;Local Best: 912.000000;Current Best: 912.000000;time: 26.173645
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 27.298986
+
+QPLIB_3650.qs 946 0.00273657 912 555.94s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 906.000000;Current Best: 906.000000;time: 155.703563
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 24.390107
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 34.217272
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 25.072178
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 25.575631
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 24.490604
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 24.769466
+Iteration: 8;Local Best: 908.000000;Current Best: 908.000000;time: 23.606469
+Iteration: 9;Local Best: 908.000000;Current Best: 908.000000;time: 23.941430
+Iteration: 10;Local Best: 908.000000;Current Best: 908.000000;time: 24.276032
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 37.696698
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 24.222475
+Iteration: 13;Local Best: 910.000000;Current Best: 910.000000;time: 23.600888
+Iteration: 14;Local Best: 910.000000;Current Best: 910.000000;time: 23.453800
+Iteration: 15;Local Best: 910.000000;Current Best: 910.000000;time: 23.121505
+Iteration: 16;Local Best: 910.000000;Current Best: 910.000000;time: 23.720876
+Iteration: 17;Local Best: 910.000000;Current Best: 910.000000;time: 22.584121
+Iteration: 18;Local Best: 910.000000;Current Best: 910.000000;time: 22.704355
+
+QPLIB_3650.qs 946 0.00273657 910 587.20s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 912.000000;Current Best: 912.000000;time: 151.345697
+Iteration: 2;Local Best: 912.000000;Current Best: 912.000000;time: 33.211088
+Iteration: 3;Local Best: 914.000000;Current Best: 914.000000;time: 41.935920
+Iteration: 4;Local Best: 914.000000;Current Best: 914.000000;time: 31.469122
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 31.469041
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 31.860452
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 31.315121
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 31.842833
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 31.375462
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 31.058552
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 31.474753
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 31.052378
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 31.039859
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 31.517038
+
+QPLIB_3650.qs 946 0.00273657 914 572.02s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 904.000000;Current Best: 904.000000;time: 119.734292
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 30.410417
+Iteration: 3;Local Best: 910.000000;Current Best: 910.000000;time: 45.772352
+Iteration: 4;Local Best: 910.000000;Current Best: 910.000000;time: 22.863644
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 52.276011
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 23.738489
+Iteration: 7;Local Best: 918.000000;Current Best: 918.000000;time: 61.672001
+Iteration: 8;Local Best: 918.000000;Current Best: 918.000000;time: 23.044798
+Iteration: 9;Local Best: 918.000000;Current Best: 918.000000;time: 23.875097
+Iteration: 10;Local Best: 918.000000;Current Best: 918.000000;time: 22.927899
+Iteration: 11;Local Best: 918.000000;Current Best: 918.000000;time: 23.817953
+Iteration: 12;Local Best: 918.000000;Current Best: 918.000000;time: 24.077428
+Iteration: 13;Local Best: 918.000000;Current Best: 918.000000;time: 23.954873
+Iteration: 14;Local Best: 918.000000;Current Best: 918.000000;time: 23.917563
+Iteration: 15;Local Best: 918.000000;Current Best: 918.000000;time: 24.784270
+Iteration: 16;Local Best: 918.000000;Current Best: 918.000000;time: 23.897387
+
+QPLIB_3650.qs 946 0.00273657 918 570.81s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 900.000000;Current Best: 900.000000;time: 140.633189
+Iteration: 2;Local Best: 914.000000;Current Best: 914.000000;time: 79.105360
+Iteration: 3;Local Best: 914.000000;Current Best: 914.000000;time: 23.545062
+Iteration: 4;Local Best: 914.000000;Current Best: 914.000000;time: 24.694167
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 25.051890
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 23.392882
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 22.564241
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 24.128536
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 24.297577
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 24.480295
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 26.012648
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 26.225697
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 27.482358
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 27.806627
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 27.538130
+Iteration: 16;Local Best: 914.000000;Current Best: 914.000000;time: 28.562932
+
+QPLIB_3650.qs 946 0.00273657 914 575.57s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 910.000000;Current Best: 910.000000;time: 142.242185
+Iteration: 2;Local Best: 914.000000;Current Best: 914.000000;time: 32.174541
+Iteration: 3;Local Best: 914.000000;Current Best: 914.000000;time: 22.624230
+Iteration: 4;Local Best: 914.000000;Current Best: 914.000000;time: 22.447772
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 22.843894
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 22.176823
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 22.367442
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 23.515516
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 22.860114
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 23.591208
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 22.170134
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 22.387072
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 22.681388
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 22.946234
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 22.958712
+Iteration: 16;Local Best: 914.000000;Current Best: 914.000000;time: 22.395044
+Iteration: 17;Local Best: 914.000000;Current Best: 914.000000;time: 22.926905
+Iteration: 18;Local Best: 914.000000;Current Best: 914.000000;time: 23.041522
+Iteration: 19;Local Best: 914.000000;Current Best: 914.000000;time: 22.540195
+Iteration: 20;Local Best: 914.000000;Current Best: 914.000000;time: 22.501065
+
+QPLIB_3650.qs 946 0.00273657 914 583.44s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 902.000000;Current Best: 902.000000;time: 151.920377
+Iteration: 2;Local Best: 914.000000;Current Best: 914.000000;time: 70.607091
+Iteration: 3;Local Best: 914.000000;Current Best: 914.000000;time: 28.657994
+Iteration: 4;Local Best: 914.000000;Current Best: 914.000000;time: 28.548818
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 29.802932
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 30.538034
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 29.229480
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 28.598400
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 28.506440
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 29.707551
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 29.533974
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 28.883384
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 29.244607
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 29.096551
+
+QPLIB_3650.qs 946 0.00273657 914 572.93s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 906.000000;Current Best: 906.000000;time: 132.043664
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 49.477629
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 29.226546
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 27.717540
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 27.162838
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 28.400049
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 28.588629
+Iteration: 8;Local Best: 908.000000;Current Best: 908.000000;time: 29.068295
+Iteration: 9;Local Best: 908.000000;Current Best: 908.000000;time: 29.974934
+Iteration: 10;Local Best: 908.000000;Current Best: 908.000000;time: 28.094943
+Iteration: 11;Local Best: 908.000000;Current Best: 908.000000;time: 28.422833
+Iteration: 12;Local Best: 908.000000;Current Best: 908.000000;time: 28.853156
+Iteration: 13;Local Best: 908.000000;Current Best: 908.000000;time: 29.205017
+Iteration: 14;Local Best: 908.000000;Current Best: 908.000000;time: 29.112164
+Iteration: 15;Local Best: 908.000000;Current Best: 908.000000;time: 28.901592
+Iteration: 16;Local Best: 908.000000;Current Best: 908.000000;time: 28.725104
+
+QPLIB_3650.qs 946 0.00273657 908 583.02s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 900.000000;Current Best: 900.000000;time: 147.240287
+Iteration: 2;Local Best: 900.000000;Current Best: 900.000000;time: 28.139394
+Iteration: 3;Local Best: 900.000000;Current Best: 900.000000;time: 29.379519
+Iteration: 4;Local Best: 902.000000;Current Best: 902.000000;time: 47.868778
+Iteration: 5;Local Best: 912.000000;Current Best: 912.000000;time: 64.049579
+Iteration: 6;Local Best: 912.000000;Current Best: 912.000000;time: 26.812132
+Iteration: 7;Local Best: 912.000000;Current Best: 912.000000;time: 26.659004
+Iteration: 8;Local Best: 912.000000;Current Best: 912.000000;time: 26.934049
+Iteration: 9;Local Best: 912.000000;Current Best: 912.000000;time: 27.952777
+Iteration: 10;Local Best: 912.000000;Current Best: 912.000000;time: 26.554519
+Iteration: 11;Local Best: 912.000000;Current Best: 912.000000;time: 26.734381
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 27.045332
+Iteration: 13;Local Best: 912.000000;Current Best: 912.000000;time: 27.136909
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 42.663165
+
+QPLIB_3650.qs 946 0.00273657 914 575.22s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 894.000000;Current Best: 894.000000;time: 146.741154
+Iteration: 2;Local Best: 902.000000;Current Best: 902.000000;time: 78.526824
+Iteration: 3;Local Best: 910.000000;Current Best: 910.000000;time: 73.154173
+Iteration: 4;Local Best: 910.000000;Current Best: 910.000000;time: 21.524376
+Iteration: 5;Local Best: 910.000000;Current Best: 910.000000;time: 23.123827
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 22.270927
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 23.080467
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 22.452824
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 22.455040
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 23.005977
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 23.169796
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 22.252046
+Iteration: 13;Local Best: 910.000000;Current Best: 910.000000;time: 24.502916
+Iteration: 14;Local Best: 910.000000;Current Best: 910.000000;time: 22.841005
+Iteration: 15;Local Best: 912.000000;Current Best: 912.000000;time: 28.026376
+
+QPLIB_3650.qs 946 0.00273657 912 577.18s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 912.000000;Current Best: 912.000000;time: 153.421107
+Iteration: 2;Local Best: 912.000000;Current Best: 912.000000;time: 25.130845
+Iteration: 3;Local Best: 912.000000;Current Best: 912.000000;time: 25.559235
+Iteration: 4;Local Best: 912.000000;Current Best: 912.000000;time: 25.170408
+Iteration: 5;Local Best: 912.000000;Current Best: 912.000000;time: 26.130743
+Iteration: 6;Local Best: 912.000000;Current Best: 912.000000;time: 25.511367
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 29.040950
+Iteration: 8;Local Best: 916.000000;Current Best: 916.000000;time: 34.205520
+Iteration: 9;Local Best: 916.000000;Current Best: 916.000000;time: 26.607214
+Iteration: 10;Local Best: 916.000000;Current Best: 916.000000;time: 25.750006
+Iteration: 11;Local Best: 916.000000;Current Best: 916.000000;time: 25.397453
+Iteration: 12;Local Best: 916.000000;Current Best: 916.000000;time: 25.385577
+Iteration: 13;Local Best: 916.000000;Current Best: 916.000000;time: 24.285504
+Iteration: 14;Local Best: 916.000000;Current Best: 916.000000;time: 24.544519
+Iteration: 15;Local Best: 916.000000;Current Best: 916.000000;time: 26.208643
+Iteration: 16;Local Best: 916.000000;Current Best: 916.000000;time: 25.352313
+Iteration: 17;Local Best: 916.000000;Current Best: 916.000000;time: 24.976724
+
+QPLIB_3650.qs 946 0.00273657 916 572.73s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 912.000000;Current Best: 912.000000;time: 204.217980
+Iteration: 2;Local Best: 912.000000;Current Best: 912.000000;time: 23.619819
+Iteration: 3;Local Best: 912.000000;Current Best: 912.000000;time: 24.534734
+Iteration: 4;Local Best: 912.000000;Current Best: 912.000000;time: 25.117478
+Iteration: 5;Local Best: 912.000000;Current Best: 912.000000;time: 24.290905
+Iteration: 6;Local Best: 912.000000;Current Best: 912.000000;time: 25.124155
+Iteration: 7;Local Best: 912.000000;Current Best: 912.000000;time: 24.589545
+Iteration: 8;Local Best: 912.000000;Current Best: 912.000000;time: 23.599373
+Iteration: 9;Local Best: 912.000000;Current Best: 912.000000;time: 25.439364
+Iteration: 10;Local Best: 912.000000;Current Best: 912.000000;time: 23.749240
+Iteration: 11;Local Best: 912.000000;Current Best: 912.000000;time: 23.526308
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 24.539370
+Iteration: 13;Local Best: 912.000000;Current Best: 912.000000;time: 24.086037
+Iteration: 14;Local Best: 912.000000;Current Best: 912.000000;time: 24.126368
+Iteration: 15;Local Best: 912.000000;Current Best: 912.000000;time: 24.291695
+Iteration: 16;Local Best: 912.000000;Current Best: 912.000000;time: 23.907160
+
+QPLIB_3650.qs 946 0.00273657 912 568.81s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 900.000000;Current Best: 900.000000;time: 159.093089
+Iteration: 2;Local Best: 904.000000;Current Best: 904.000000;time: 64.093580
+Iteration: 3;Local Best: 904.000000;Current Best: 904.000000;time: 29.075607
+Iteration: 4;Local Best: 904.000000;Current Best: 904.000000;time: 29.007731
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 56.417177
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 44.469812
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 29.302711
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 29.267403
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 30.467938
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 30.149700
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 29.699134
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 30.107662
+
+QPLIB_3650.qs 946 0.00273657 910 561.20s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 904.000000;Current Best: 904.000000;time: 139.371291
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 29.522073
+Iteration: 3;Local Best: 906.000000;Current Best: 906.000000;time: 23.586796
+Iteration: 4;Local Best: 906.000000;Current Best: 906.000000;time: 23.930588
+Iteration: 5;Local Best: 906.000000;Current Best: 906.000000;time: 24.115316
+Iteration: 6;Local Best: 906.000000;Current Best: 906.000000;time: 23.810862
+Iteration: 7;Local Best: 906.000000;Current Best: 906.000000;time: 24.057105
+Iteration: 8;Local Best: 906.000000;Current Best: 906.000000;time: 24.339418
+Iteration: 9;Local Best: 906.000000;Current Best: 906.000000;time: 24.098934
+Iteration: 10;Local Best: 906.000000;Current Best: 906.000000;time: 24.382380
+Iteration: 11;Local Best: 906.000000;Current Best: 906.000000;time: 23.602339
+Iteration: 12;Local Best: 906.000000;Current Best: 906.000000;time: 23.425638
+Iteration: 13;Local Best: 906.000000;Current Best: 906.000000;time: 24.003448
+Iteration: 14;Local Best: 906.000000;Current Best: 906.000000;time: 24.321288
+Iteration: 15;Local Best: 906.000000;Current Best: 906.000000;time: 22.958514
+Iteration: 16;Local Best: 906.000000;Current Best: 906.000000;time: 23.476623
+Iteration: 17;Local Best: 906.000000;Current Best: 906.000000;time: 23.431574
+Iteration: 18;Local Best: 906.000000;Current Best: 906.000000;time: 24.119931
+Iteration: 19;Local Best: 906.000000;Current Best: 906.000000;time: 23.873556
+
+QPLIB_3650.qs 946 0.00273657 906 574.48s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 914.000000;Current Best: 914.000000;time: 148.088897
+Iteration: 2;Local Best: 916.000000;Current Best: 916.000000;time: 31.270074
+Iteration: 3;Local Best: 916.000000;Current Best: 916.000000;time: 27.694517
+Iteration: 4;Local Best: 916.000000;Current Best: 916.000000;time: 27.689500
+Iteration: 5;Local Best: 916.000000;Current Best: 916.000000;time: 28.629085
+Iteration: 6;Local Best: 916.000000;Current Best: 916.000000;time: 27.845932
+Iteration: 7;Local Best: 916.000000;Current Best: 916.000000;time: 26.859586
+Iteration: 8;Local Best: 916.000000;Current Best: 916.000000;time: 25.841911
+Iteration: 9;Local Best: 916.000000;Current Best: 916.000000;time: 27.436258
+Iteration: 10;Local Best: 916.000000;Current Best: 916.000000;time: 26.953454
+Iteration: 11;Local Best: 916.000000;Current Best: 916.000000;time: 26.536781
+Iteration: 12;Local Best: 918.000000;Current Best: 918.000000;time: 42.241631
+Iteration: 13;Local Best: 918.000000;Current Best: 918.000000;time: 25.969709
+Iteration: 14;Local Best: 918.000000;Current Best: 918.000000;time: 25.675733
+Iteration: 15;Local Best: 918.000000;Current Best: 918.000000;time: 26.631006
+Iteration: 16;Local Best: 918.000000;Current Best: 918.000000;time: 27.305802
+
+QPLIB_3650.qs 946 0.00273657 918 572.72s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 904.000000;Current Best: 904.000000;time: 134.576026
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 30.243279
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 42.603958
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 26.316782
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 26.206223
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 24.682757
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 25.903217
+Iteration: 8;Local Best: 908.000000;Current Best: 908.000000;time: 25.512156
+Iteration: 9;Local Best: 908.000000;Current Best: 908.000000;time: 24.689517
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 32.421680
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 24.010876
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 24.173541
+Iteration: 13;Local Best: 910.000000;Current Best: 910.000000;time: 23.957612
+Iteration: 14;Local Best: 910.000000;Current Best: 910.000000;time: 23.749729
+Iteration: 15;Local Best: 910.000000;Current Best: 910.000000;time: 24.273528
+Iteration: 16;Local Best: 910.000000;Current Best: 910.000000;time: 23.640560
+Iteration: 17;Local Best: 910.000000;Current Best: 910.000000;time: 23.978957
+Iteration: 18;Local Best: 910.000000;Current Best: 910.000000;time: 24.084488
+
+QPLIB_3650.qs 946 0.00273657 910 585.07s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 906.000000;Current Best: 906.000000;time: 134.499607
+Iteration: 2;Local Best: 914.000000;Current Best: 914.000000;time: 88.784179
+Iteration: 3;Local Best: 914.000000;Current Best: 914.000000;time: 25.003018
+Iteration: 4;Local Best: 914.000000;Current Best: 914.000000;time: 25.272323
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 25.346370
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 26.146595
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 26.478221
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 25.978794
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 25.592771
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 26.059046
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 25.832038
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 25.307044
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 25.843657
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 25.571927
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 24.919424
+Iteration: 16;Local Best: 914.000000;Current Best: 914.000000;time: 24.826841
+
+QPLIB_3650.qs 946 0.00273657 914 581.51s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 902.000000;Current Best: 902.000000;time: 194.116331
+Iteration: 2;Local Best: 902.000000;Current Best: 902.000000;time: 28.609911
+Iteration: 3;Local Best: 906.000000;Current Best: 906.000000;time: 52.343179
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 26.276211
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 23.135819
+Iteration: 6;Local Best: 912.000000;Current Best: 912.000000;time: 27.549740
+Iteration: 7;Local Best: 912.000000;Current Best: 912.000000;time: 22.347560
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 27.265639
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 22.943979
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 21.992404
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 22.720872
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 23.424538
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 23.184930
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 22.714685
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 23.093213
+Iteration: 16;Local Best: 914.000000;Current Best: 914.000000;time: 23.312096
+
+QPLIB_3650.qs 946 0.00273657 914 585.08s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 127.839303
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 30.792604
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 31.795614
+Iteration: 4;Local Best: 914.000000;Current Best: 914.000000;time: 65.635633
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 25.106119
+Iteration: 6;Local Best: 916.000000;Current Best: 916.000000;time: 45.150388
+Iteration: 7;Local Best: 916.000000;Current Best: 916.000000;time: 22.522418
+Iteration: 8;Local Best: 916.000000;Current Best: 916.000000;time: 24.125431
+Iteration: 9;Local Best: 916.000000;Current Best: 916.000000;time: 23.876322
+Iteration: 10;Local Best: 916.000000;Current Best: 916.000000;time: 23.961036
+Iteration: 11;Local Best: 916.000000;Current Best: 916.000000;time: 23.879010
+Iteration: 12;Local Best: 916.000000;Current Best: 916.000000;time: 23.457326
+Iteration: 13;Local Best: 916.000000;Current Best: 916.000000;time: 23.283688
+Iteration: 14;Local Best: 916.000000;Current Best: 916.000000;time: 23.282719
+Iteration: 15;Local Best: 916.000000;Current Best: 916.000000;time: 23.537773
+Iteration: 16;Local Best: 916.000000;Current Best: 916.000000;time: 23.855596
+Iteration: 17;Local Best: 916.000000;Current Best: 916.000000;time: 23.458306
+
+QPLIB_3650.qs 946 0.00273657 916 585.61s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 900.000000;Current Best: 900.000000;time: 159.840579
+Iteration: 2;Local Best: 900.000000;Current Best: 900.000000;time: 25.688860
+Iteration: 3;Local Best: 904.000000;Current Best: 904.000000;time: 40.122178
+Iteration: 4;Local Best: 904.000000;Current Best: 904.000000;time: 25.607704
+Iteration: 5;Local Best: 904.000000;Current Best: 904.000000;time: 24.400900
+Iteration: 6;Local Best: 904.000000;Current Best: 904.000000;time: 24.369098
+Iteration: 7;Local Best: 904.000000;Current Best: 904.000000;time: 24.742285
+Iteration: 8;Local Best: 906.000000;Current Best: 906.000000;time: 45.949765
+Iteration: 9;Local Best: 908.000000;Current Best: 908.000000;time: 42.228434
+Iteration: 10;Local Best: 908.000000;Current Best: 908.000000;time: 25.721500
+Iteration: 11;Local Best: 908.000000;Current Best: 908.000000;time: 25.360310
+Iteration: 12;Local Best: 908.000000;Current Best: 908.000000;time: 25.583308
+Iteration: 13;Local Best: 908.000000;Current Best: 908.000000;time: 25.943388
+Iteration: 14;Local Best: 908.000000;Current Best: 908.000000;time: 26.045570
+Iteration: 15;Local Best: 908.000000;Current Best: 908.000000;time: 25.584623
+
+QPLIB_3650.qs 946 0.00273657 908 567.23s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 910.000000;Current Best: 910.000000;time: 151.240773
+Iteration: 2;Local Best: 910.000000;Current Best: 910.000000;time: 23.812866
+Iteration: 3;Local Best: 910.000000;Current Best: 910.000000;time: 23.778521
+Iteration: 4;Local Best: 910.000000;Current Best: 910.000000;time: 24.209901
+Iteration: 5;Local Best: 910.000000;Current Best: 910.000000;time: 23.719487
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 23.729013
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 23.850004
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 24.703543
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 25.672392
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 24.978390
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 24.902161
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 23.764865
+Iteration: 13;Local Best: 910.000000;Current Best: 910.000000;time: 23.758164
+Iteration: 14;Local Best: 910.000000;Current Best: 910.000000;time: 23.999811
+Iteration: 15;Local Best: 910.000000;Current Best: 910.000000;time: 25.069745
+Iteration: 16;Local Best: 910.000000;Current Best: 910.000000;time: 24.510936
+Iteration: 17;Local Best: 910.000000;Current Best: 910.000000;time: 24.474517
+Iteration: 18;Local Best: 910.000000;Current Best: 910.000000;time: 24.862339
+Iteration: 19;Local Best: 910.000000;Current Best: 910.000000;time: 25.378979
+
+QPLIB_3650.qs 946 0.00273657 910 590.46s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 910.000000;Current Best: 910.000000;time: 177.461543
+Iteration: 2;Local Best: 910.000000;Current Best: 910.000000;time: 21.829373
+Iteration: 3;Local Best: 910.000000;Current Best: 910.000000;time: 21.955175
+Iteration: 4;Local Best: 912.000000;Current Best: 912.000000;time: 34.151466
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 24.647221
+Iteration: 6;Local Best: 916.000000;Current Best: 916.000000;time: 28.076337
+Iteration: 7;Local Best: 916.000000;Current Best: 916.000000;time: 21.919735
+Iteration: 8;Local Best: 916.000000;Current Best: 916.000000;time: 22.431165
+Iteration: 9;Local Best: 916.000000;Current Best: 916.000000;time: 22.126026
+Iteration: 10;Local Best: 916.000000;Current Best: 916.000000;time: 21.568552
+Iteration: 11;Local Best: 916.000000;Current Best: 916.000000;time: 23.049496
+Iteration: 12;Local Best: 916.000000;Current Best: 916.000000;time: 21.825552
+Iteration: 13;Local Best: 916.000000;Current Best: 916.000000;time: 22.488136
+Iteration: 14;Local Best: 916.000000;Current Best: 916.000000;time: 21.835801
+Iteration: 15;Local Best: 916.000000;Current Best: 916.000000;time: 21.658775
+Iteration: 16;Local Best: 916.000000;Current Best: 916.000000;time: 22.720153
+Iteration: 17;Local Best: 916.000000;Current Best: 916.000000;time: 21.908434
+Iteration: 18;Local Best: 916.000000;Current Best: 916.000000;time: 22.057491
+
+QPLIB_3650.qs 946 0.00273657 916 573.76s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 896.000000;Current Best: 896.000000;time: 151.117164
+Iteration: 2;Local Best: 898.000000;Current Best: 898.000000;time: 33.109032
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 91.922480
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 24.314915
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 24.838473
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 25.691532
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 26.127050
+Iteration: 8;Local Best: 908.000000;Current Best: 908.000000;time: 26.268596
+Iteration: 9;Local Best: 908.000000;Current Best: 908.000000;time: 24.901622
+Iteration: 10;Local Best: 908.000000;Current Best: 908.000000;time: 25.326838
+Iteration: 11;Local Best: 908.000000;Current Best: 908.000000;time: 24.612371
+Iteration: 12;Local Best: 908.000000;Current Best: 908.000000;time: 25.433809
+Iteration: 13;Local Best: 908.000000;Current Best: 908.000000;time: 25.706198
+Iteration: 14;Local Best: 908.000000;Current Best: 908.000000;time: 25.990926
+Iteration: 15;Local Best: 908.000000;Current Best: 908.000000;time: 25.876333
+
+QPLIB_3650.qs 946 0.00273657 908 581.28s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 912.000000;Current Best: 912.000000;time: 134.902049
+Iteration: 2;Local Best: 912.000000;Current Best: 912.000000;time: 27.085341
+Iteration: 3;Local Best: 914.000000;Current Best: 914.000000;time: 41.729447
+Iteration: 4;Local Best: 914.000000;Current Best: 914.000000;time: 23.991908
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 24.773962
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 25.753047
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 24.629120
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 24.157400
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 25.036183
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 24.116007
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 24.956541
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 25.709872
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 24.148269
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 24.186804
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 25.066742
+Iteration: 16;Local Best: 914.000000;Current Best: 914.000000;time: 25.497058
+Iteration: 17;Local Best: 914.000000;Current Best: 914.000000;time: 24.839660
+Iteration: 18;Local Best: 914.000000;Current Best: 914.000000;time: 24.933860
+
+QPLIB_3650.qs 946 0.00273657 914 575.56s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 886.000000;Current Best: 886.000000;time: 115.247381
+Iteration: 2;Local Best: 896.000000;Current Best: 896.000000;time: 51.966811
+Iteration: 3;Local Best: 900.000000;Current Best: 900.000000;time: 44.111066
+Iteration: 4;Local Best: 900.000000;Current Best: 900.000000;time: 24.603949
+Iteration: 5;Local Best: 900.000000;Current Best: 900.000000;time: 24.982501
+Iteration: 6;Local Best: 900.000000;Current Best: 900.000000;time: 26.723993
+Iteration: 7;Local Best: 912.000000;Current Best: 912.000000;time: 94.776659
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 32.036729
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 22.234348
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 22.272364
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 20.752391
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 22.562844
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 21.948681
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 22.160636
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 21.997748
+
+QPLIB_3650.qs 946 0.00273657 914 568.43s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 906.000000;Current Best: 906.000000;time: 203.177422
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 32.320634
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 43.339032
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 30.238092
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 29.916190
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 29.878279
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 29.072557
+Iteration: 8;Local Best: 908.000000;Current Best: 908.000000;time: 30.123505
+Iteration: 9;Local Best: 908.000000;Current Best: 908.000000;time: 29.587250
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 47.240440
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 29.575438
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 29.740989
+
+QPLIB_3650.qs 946 0.00273657 910 564.26s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 910.000000;Current Best: 910.000000;time: 102.997059
+Iteration: 2;Local Best: 914.000000;Current Best: 914.000000;time: 45.931410
+Iteration: 3;Local Best: 914.000000;Current Best: 914.000000;time: 18.166852
+Iteration: 4;Local Best: 914.000000;Current Best: 914.000000;time: 18.323801
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 18.922085
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 19.772429
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 18.199453
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 17.962030
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 17.953867
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 17.598801
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 19.114477
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 18.111417
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 17.815910
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 18.702037
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 18.994755
+Iteration: 16;Local Best: 914.000000;Current Best: 914.000000;time: 17.527922
+Iteration: 17;Local Best: 914.000000;Current Best: 914.000000;time: 19.231753
+Iteration: 18;Local Best: 914.000000;Current Best: 914.000000;time: 18.248391
+Iteration: 19;Local Best: 914.000000;Current Best: 914.000000;time: 18.186428
+Iteration: 20;Local Best: 914.000000;Current Best: 914.000000;time: 18.427900
+Iteration: 21;Local Best: 914.000000;Current Best: 914.000000;time: 17.832758
+Iteration: 22;Local Best: 914.000000;Current Best: 914.000000;time: 18.426466
+Iteration: 23;Local Best: 914.000000;Current Best: 914.000000;time: 19.051394
+Iteration: 24;Local Best: 914.000000;Current Best: 914.000000;time: 19.309813
+Iteration: 25;Local Best: 914.000000;Current Best: 914.000000;time: 18.956206
+Iteration: 26;Local Best: 914.000000;Current Best: 914.000000;time: 18.544319
+
+QPLIB_3650.qs 946 0.00273657 914 592.36s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 898.000000;Current Best: 898.000000;time: 114.356528
+Iteration: 2;Local Best: 900.000000;Current Best: 900.000000;time: 26.857334
+Iteration: 3;Local Best: 900.000000;Current Best: 900.000000;time: 22.812179
+Iteration: 4;Local Best: 904.000000;Current Best: 904.000000;time: 38.981349
+Iteration: 5;Local Best: 904.000000;Current Best: 904.000000;time: 20.896250
+Iteration: 6;Local Best: 904.000000;Current Best: 904.000000;time: 20.829012
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 52.176699
+Iteration: 8;Local Best: 908.000000;Current Best: 908.000000;time: 23.536316
+Iteration: 9;Local Best: 908.000000;Current Best: 908.000000;time: 22.544092
+Iteration: 10;Local Best: 908.000000;Current Best: 908.000000;time: 23.818971
+Iteration: 11;Local Best: 908.000000;Current Best: 908.000000;time: 23.224089
+Iteration: 12;Local Best: 908.000000;Current Best: 908.000000;time: 22.695705
+Iteration: 13;Local Best: 908.000000;Current Best: 908.000000;time: 24.478861
+Iteration: 14;Local Best: 908.000000;Current Best: 908.000000;time: 23.399625
+Iteration: 15;Local Best: 908.000000;Current Best: 908.000000;time: 23.935988
+Iteration: 16;Local Best: 908.000000;Current Best: 908.000000;time: 23.598286
+Iteration: 17;Local Best: 908.000000;Current Best: 908.000000;time: 23.446852
+Iteration: 18;Local Best: 908.000000;Current Best: 908.000000;time: 23.886632
+Iteration: 19;Local Best: 908.000000;Current Best: 908.000000;time: 23.345273
+
+QPLIB_3650.qs 946 0.00273657 908 578.87s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 898.000000;Current Best: 898.000000;time: 94.350223
+Iteration: 2;Local Best: 900.000000;Current Best: 900.000000;time: 43.089793
+Iteration: 3;Local Best: 906.000000;Current Best: 906.000000;time: 44.816785
+Iteration: 4;Local Best: 906.000000;Current Best: 906.000000;time: 26.899040
+Iteration: 5;Local Best: 906.000000;Current Best: 906.000000;time: 26.831299
+Iteration: 6;Local Best: 906.000000;Current Best: 906.000000;time: 26.997962
+Iteration: 7;Local Best: 906.000000;Current Best: 906.000000;time: 27.089890
+Iteration: 8;Local Best: 906.000000;Current Best: 906.000000;time: 26.160447
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 47.163741
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 24.671248
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 25.804941
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 26.393321
+Iteration: 13;Local Best: 910.000000;Current Best: 910.000000;time: 25.436573
+Iteration: 14;Local Best: 910.000000;Current Best: 910.000000;time: 26.725770
+Iteration: 15;Local Best: 910.000000;Current Best: 910.000000;time: 26.602736
+Iteration: 16;Local Best: 910.000000;Current Best: 910.000000;time: 26.696531
+Iteration: 17;Local Best: 910.000000;Current Best: 910.000000;time: 26.049895
+
+QPLIB_3650.qs 946 0.00273657 910 571.83s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 906.000000;Current Best: 906.000000;time: 190.777865
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 24.856891
+Iteration: 3;Local Best: 906.000000;Current Best: 906.000000;time: 26.158048
+Iteration: 4;Local Best: 906.000000;Current Best: 906.000000;time: 25.433095
+Iteration: 5;Local Best: 906.000000;Current Best: 906.000000;time: 25.304765
+Iteration: 6;Local Best: 906.000000;Current Best: 906.000000;time: 24.306741
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 67.616993
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 25.162332
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 26.725507
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 25.288150
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 24.415369
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 25.389318
+Iteration: 13;Local Best: 910.000000;Current Best: 910.000000;time: 25.981831
+Iteration: 14;Local Best: 910.000000;Current Best: 910.000000;time: 25.343445
+
+QPLIB_3650.qs 946 0.00273657 910 562.81s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 910.000000;Current Best: 910.000000;time: 163.847035
+Iteration: 2;Local Best: 910.000000;Current Best: 910.000000;time: 27.756618
+Iteration: 3;Local Best: 910.000000;Current Best: 910.000000;time: 29.086407
+Iteration: 4;Local Best: 910.000000;Current Best: 910.000000;time: 28.641798
+Iteration: 5;Local Best: 910.000000;Current Best: 910.000000;time: 29.292194
+Iteration: 6;Local Best: 910.000000;Current Best: 910.000000;time: 29.384465
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 29.651466
+Iteration: 8;Local Best: 910.000000;Current Best: 910.000000;time: 29.361562
+Iteration: 9;Local Best: 910.000000;Current Best: 910.000000;time: 29.749468
+Iteration: 10;Local Best: 910.000000;Current Best: 910.000000;time: 29.115129
+Iteration: 11;Local Best: 910.000000;Current Best: 910.000000;time: 29.526809
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 29.591332
+Iteration: 13;Local Best: 910.000000;Current Best: 910.000000;time: 29.289886
+Iteration: 14;Local Best: 910.000000;Current Best: 910.000000;time: 29.858854
+Iteration: 15;Local Best: 910.000000;Current Best: 910.000000;time: 28.998213
+
+QPLIB_3650.qs 946 0.00273657 910 573.20s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 153.394388
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 27.775489
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 27.016028
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 27.688013
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 26.153338
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 59.365713
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 25.569967
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 26.106145
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 25.292895
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 26.452924
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 25.429971
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 25.421534
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 25.712991
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 26.147196
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 26.296478
+Iteration: 16;Local Best: 914.000000;Current Best: 914.000000;time: 26.887497
+
+QPLIB_3650.qs 946 0.00273657 914 580.76s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 910.000000;Current Best: 910.000000;time: 173.080329
+Iteration: 2;Local Best: 910.000000;Current Best: 910.000000;time: 29.562768
+Iteration: 3;Local Best: 912.000000;Current Best: 912.000000;time: 37.855474
+Iteration: 4;Local Best: 912.000000;Current Best: 912.000000;time: 28.210621
+Iteration: 5;Local Best: 912.000000;Current Best: 912.000000;time: 26.884677
+Iteration: 6;Local Best: 912.000000;Current Best: 912.000000;time: 26.816310
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 56.077237
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 27.248355
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 25.567173
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 27.209324
+Iteration: 11;Local Best: 916.000000;Current Best: 916.000000;time: 37.338429
+Iteration: 12;Local Best: 916.000000;Current Best: 916.000000;time: 24.902093
+Iteration: 13;Local Best: 916.000000;Current Best: 916.000000;time: 25.813617
+Iteration: 14;Local Best: 916.000000;Current Best: 916.000000;time: 24.657293
+
+QPLIB_3650.qs 946 0.00273657 916 571.27s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 904.000000;Current Best: 904.000000;time: 155.260051
+Iteration: 2;Local Best: 904.000000;Current Best: 904.000000;time: 24.743881
+Iteration: 3;Local Best: 906.000000;Current Best: 906.000000;time: 53.605025
+Iteration: 4;Local Best: 906.000000;Current Best: 906.000000;time: 26.641195
+Iteration: 5;Local Best: 906.000000;Current Best: 906.000000;time: 26.431904
+Iteration: 6;Local Best: 906.000000;Current Best: 906.000000;time: 26.638012
+Iteration: 7;Local Best: 906.000000;Current Best: 906.000000;time: 25.743607
+Iteration: 8;Local Best: 908.000000;Current Best: 908.000000;time: 46.554689
+Iteration: 9;Local Best: 908.000000;Current Best: 908.000000;time: 25.341982
+Iteration: 10;Local Best: 908.000000;Current Best: 908.000000;time: 25.414600
+Iteration: 11;Local Best: 908.000000;Current Best: 908.000000;time: 25.040787
+Iteration: 12;Local Best: 910.000000;Current Best: 910.000000;time: 36.785501
+Iteration: 13;Local Best: 910.000000;Current Best: 910.000000;time: 25.402717
+Iteration: 14;Local Best: 910.000000;Current Best: 910.000000;time: 26.434542
+Iteration: 15;Local Best: 910.000000;Current Best: 910.000000;time: 26.019417
+
+QPLIB_3650.qs 946 0.00273657 910 576.10s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 900.000000;Current Best: 900.000000;time: 133.530271
+Iteration: 2;Local Best: 906.000000;Current Best: 906.000000;time: 85.090351
+Iteration: 3;Local Best: 906.000000;Current Best: 906.000000;time: 25.128353
+Iteration: 4;Local Best: 906.000000;Current Best: 906.000000;time: 25.076992
+Iteration: 5;Local Best: 906.000000;Current Best: 906.000000;time: 24.989121
+Iteration: 6;Local Best: 906.000000;Current Best: 906.000000;time: 25.730137
+Iteration: 7;Local Best: 906.000000;Current Best: 906.000000;time: 26.711446
+Iteration: 8;Local Best: 906.000000;Current Best: 906.000000;time: 26.068718
+Iteration: 9;Local Best: 906.000000;Current Best: 906.000000;time: 25.833632
+Iteration: 10;Local Best: 906.000000;Current Best: 906.000000;time: 26.411275
+Iteration: 11;Local Best: 906.000000;Current Best: 906.000000;time: 26.150378
+Iteration: 12;Local Best: 906.000000;Current Best: 906.000000;time: 25.909542
+Iteration: 13;Local Best: 906.000000;Current Best: 906.000000;time: 26.079592
+Iteration: 14;Local Best: 906.000000;Current Best: 906.000000;time: 25.975438
+Iteration: 15;Local Best: 906.000000;Current Best: 906.000000;time: 26.354468
+Iteration: 16;Local Best: 906.000000;Current Best: 906.000000;time: 25.187235
+
+QPLIB_3650.qs 946 0.00273657 906 580.27s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 894.000000;Current Best: 894.000000;time: 168.589515
+Iteration: 2;Local Best: 896.000000;Current Best: 896.000000;time: 43.846704
+Iteration: 3;Local Best: 900.000000;Current Best: 900.000000;time: 52.228166
+Iteration: 4;Local Best: 900.000000;Current Best: 900.000000;time: 26.003901
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 82.138872
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 27.340981
+Iteration: 7;Local Best: 910.000000;Current Best: 910.000000;time: 31.582089
+Iteration: 8;Local Best: 912.000000;Current Best: 912.000000;time: 36.605224
+Iteration: 9;Local Best: 912.000000;Current Best: 912.000000;time: 24.493770
+Iteration: 10;Local Best: 912.000000;Current Best: 912.000000;time: 25.945447
+Iteration: 11;Local Best: 912.000000;Current Best: 912.000000;time: 24.504724
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 24.185371
+
+QPLIB_3650.qs 946 0.00273657 912 567.51s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 912.000000;Current Best: 912.000000;time: 170.636562
+Iteration: 2;Local Best: 914.000000;Current Best: 914.000000;time: 45.124857
+Iteration: 3;Local Best: 914.000000;Current Best: 914.000000;time: 23.843881
+Iteration: 4;Local Best: 914.000000;Current Best: 914.000000;time: 23.821307
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 23.851219
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 24.087810
+Iteration: 7;Local Best: 916.000000;Current Best: 916.000000;time: 28.915196
+Iteration: 8;Local Best: 916.000000;Current Best: 916.000000;time: 21.266250
+Iteration: 9;Local Best: 916.000000;Current Best: 916.000000;time: 22.076268
+Iteration: 10;Local Best: 916.000000;Current Best: 916.000000;time: 21.940020
+Iteration: 11;Local Best: 916.000000;Current Best: 916.000000;time: 20.971980
+Iteration: 12;Local Best: 916.000000;Current Best: 916.000000;time: 22.175107
+Iteration: 13;Local Best: 916.000000;Current Best: 916.000000;time: 21.826176
+Iteration: 14;Local Best: 916.000000;Current Best: 916.000000;time: 21.466267
+Iteration: 15;Local Best: 916.000000;Current Best: 916.000000;time: 21.864947
+Iteration: 16;Local Best: 916.000000;Current Best: 916.000000;time: 20.910170
+Iteration: 17;Local Best: 916.000000;Current Best: 916.000000;time: 21.299501
+Iteration: 18;Local Best: 916.000000;Current Best: 916.000000;time: 21.780007
+
+QPLIB_3650.qs 946 0.00273657 916 577.90s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 900.000000;Current Best: 900.000000;time: 153.087586
+Iteration: 2;Local Best: 916.000000;Current Best: 916.000000;time: 109.591519
+Iteration: 3;Local Best: 916.000000;Current Best: 916.000000;time: 22.588046
+Iteration: 4;Local Best: 916.000000;Current Best: 916.000000;time: 20.996577
+Iteration: 5;Local Best: 916.000000;Current Best: 916.000000;time: 21.896763
+Iteration: 6;Local Best: 916.000000;Current Best: 916.000000;time: 22.604076
+Iteration: 7;Local Best: 916.000000;Current Best: 916.000000;time: 23.565922
+Iteration: 8;Local Best: 916.000000;Current Best: 916.000000;time: 23.311311
+Iteration: 9;Local Best: 916.000000;Current Best: 916.000000;time: 23.626565
+Iteration: 10;Local Best: 916.000000;Current Best: 916.000000;time: 24.043339
+Iteration: 11;Local Best: 916.000000;Current Best: 916.000000;time: 23.266205
+Iteration: 12;Local Best: 916.000000;Current Best: 916.000000;time: 23.197692
+Iteration: 13;Local Best: 916.000000;Current Best: 916.000000;time: 23.406666
+Iteration: 14;Local Best: 916.000000;Current Best: 916.000000;time: 23.727276
+Iteration: 15;Local Best: 916.000000;Current Best: 916.000000;time: 24.146081
+
+QPLIB_3650.qs 946 0.00273657 916 563.10s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 906.000000;Current Best: 906.000000;time: 102.881319
+Iteration: 2;Local Best: 912.000000;Current Best: 912.000000;time: 60.681578
+Iteration: 3;Local Best: 912.000000;Current Best: 912.000000;time: 24.511022
+Iteration: 4;Local Best: 912.000000;Current Best: 912.000000;time: 24.441066
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 41.434441
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 24.229688
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 24.421455
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 24.265243
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 23.558274
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 23.723931
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 24.955869
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 23.954293
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 24.374998
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 24.600520
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 23.203041
+Iteration: 16;Local Best: 914.000000;Current Best: 914.000000;time: 23.849735
+Iteration: 17;Local Best: 914.000000;Current Best: 914.000000;time: 23.445155
+Iteration: 18;Local Best: 914.000000;Current Best: 914.000000;time: 23.874495
+Iteration: 19;Local Best: 914.000000;Current Best: 914.000000;time: 23.198193
+
+QPLIB_3650.qs 946 0.00273657 914 589.65s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 902.000000;Current Best: 902.000000;time: 133.498993
+Iteration: 2;Local Best: 902.000000;Current Best: 902.000000;time: 30.244786
+Iteration: 3;Local Best: 904.000000;Current Best: 904.000000;time: 42.840317
+Iteration: 4;Local Best: 906.000000;Current Best: 906.000000;time: 48.842167
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 46.864971
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 29.125040
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 29.336169
+Iteration: 8;Local Best: 912.000000;Current Best: 912.000000;time: 54.859810
+Iteration: 9;Local Best: 912.000000;Current Best: 912.000000;time: 28.367802
+Iteration: 10;Local Best: 912.000000;Current Best: 912.000000;time: 28.203532
+Iteration: 11;Local Best: 912.000000;Current Best: 912.000000;time: 29.070505
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 29.223327
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 50.196394
+
+QPLIB_3650.qs 946 0.00273657 914 580.72s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 135.901101
+Iteration: 2;Local Best: 908.000000;Current Best: 908.000000;time: 30.050667
+Iteration: 3;Local Best: 908.000000;Current Best: 908.000000;time: 29.408646
+Iteration: 4;Local Best: 908.000000;Current Best: 908.000000;time: 29.620334
+Iteration: 5;Local Best: 908.000000;Current Best: 908.000000;time: 30.148445
+Iteration: 6;Local Best: 908.000000;Current Best: 908.000000;time: 30.657926
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 30.009928
+Iteration: 8;Local Best: 908.000000;Current Best: 908.000000;time: 30.757951
+Iteration: 9;Local Best: 908.000000;Current Best: 908.000000;time: 29.930289
+Iteration: 10;Local Best: 908.000000;Current Best: 908.000000;time: 30.364063
+Iteration: 11;Local Best: 908.000000;Current Best: 908.000000;time: 30.660527
+Iteration: 12;Local Best: 908.000000;Current Best: 908.000000;time: 31.253609
+Iteration: 13;Local Best: 908.000000;Current Best: 908.000000;time: 31.849128
+Iteration: 14;Local Best: 908.000000;Current Best: 908.000000;time: 33.031002
+Iteration: 15;Local Best: 908.000000;Current Best: 908.000000;time: 32.382933
+
+QPLIB_3650.qs 946 0.00273657 908 566.07s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 892.000000;Current Best: 892.000000;time: 99.303801
+Iteration: 2;Local Best: 892.000000;Current Best: 892.000000;time: 23.250471
+Iteration: 3;Local Best: 892.000000;Current Best: 892.000000;time: 24.133309
+Iteration: 4;Local Best: 894.000000;Current Best: 894.000000;time: 27.852969
+Iteration: 5;Local Best: 904.000000;Current Best: 904.000000;time: 78.938184
+Iteration: 6;Local Best: 904.000000;Current Best: 904.000000;time: 27.377693
+Iteration: 7;Local Best: 908.000000;Current Best: 908.000000;time: 61.417968
+Iteration: 8;Local Best: 908.000000;Current Best: 908.000000;time: 25.031888
+Iteration: 9;Local Best: 908.000000;Current Best: 908.000000;time: 25.812477
+Iteration: 10;Local Best: 908.000000;Current Best: 908.000000;time: 26.824175
+Iteration: 11;Local Best: 908.000000;Current Best: 908.000000;time: 26.236176
+Iteration: 12;Local Best: 908.000000;Current Best: 908.000000;time: 26.911536
+Iteration: 13;Local Best: 908.000000;Current Best: 908.000000;time: 26.565382
+Iteration: 14;Local Best: 908.000000;Current Best: 908.000000;time: 26.045139
+Iteration: 15;Local Best: 908.000000;Current Best: 908.000000;time: 26.573596
+Iteration: 16;Local Best: 908.000000;Current Best: 908.000000;time: 26.662051
+
+QPLIB_3650.qs 946 0.00273657 908 578.98s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 910.000000;Current Best: 910.000000;time: 178.293366
+Iteration: 2;Local Best: 912.000000;Current Best: 912.000000;time: 33.822384
+Iteration: 3;Local Best: 912.000000;Current Best: 912.000000;time: 28.385301
+Iteration: 4;Local Best: 912.000000;Current Best: 912.000000;time: 27.955246
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 45.502884
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 28.231683
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 28.985800
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 28.037380
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 28.924325
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 28.341450
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 28.637044
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 29.387300
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 27.875642
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 28.997770
+
+QPLIB_3650.qs 946 0.00273657 914 571.42s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 912.000000;Current Best: 912.000000;time: 120.837057
+Iteration: 2;Local Best: 912.000000;Current Best: 912.000000;time: 24.352261
+Iteration: 3;Local Best: 912.000000;Current Best: 912.000000;time: 24.988447
+Iteration: 4;Local Best: 912.000000;Current Best: 912.000000;time: 24.695888
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 29.231677
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 24.640182
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 23.911382
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 23.721679
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 24.044973
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 23.927699
+Iteration: 11;Local Best: 916.000000;Current Best: 916.000000;time: 38.077740
+Iteration: 12;Local Best: 916.000000;Current Best: 916.000000;time: 24.701833
+Iteration: 13;Local Best: 916.000000;Current Best: 916.000000;time: 24.838743
+Iteration: 14;Local Best: 916.000000;Current Best: 916.000000;time: 24.646161
+Iteration: 15;Local Best: 916.000000;Current Best: 916.000000;time: 26.010641
+Iteration: 16;Local Best: 918.000000;Current Best: 918.000000;time: 32.369788
+Iteration: 17;Local Best: 918.000000;Current Best: 918.000000;time: 21.622943
+Iteration: 18;Local Best: 918.000000;Current Best: 918.000000;time: 23.025794
+Iteration: 19;Local Best: 918.000000;Current Best: 918.000000;time: 23.338605
+
+QPLIB_3650.qs 946 0.00273657 918 583.03s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 175.638294
+Iteration: 2;Local Best: 910.000000;Current Best: 910.000000;time: 28.047443
+Iteration: 3;Local Best: 910.000000;Current Best: 910.000000;time: 25.292987
+Iteration: 4;Local Best: 910.000000;Current Best: 910.000000;time: 26.462449
+Iteration: 5;Local Best: 910.000000;Current Best: 910.000000;time: 25.465148
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 59.732569
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 26.093621
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 25.291411
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 25.408165
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 26.576675
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 25.880887
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 26.225445
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 25.451031
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 26.858955
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 26.027944
+
+QPLIB_3650.qs 946 0.00273657 914 574.50s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 908.000000;Current Best: 908.000000;time: 195.143961
+Iteration: 2;Local Best: 912.000000;Current Best: 912.000000;time: 27.415275
+Iteration: 3;Local Best: 912.000000;Current Best: 912.000000;time: 22.732654
+Iteration: 4;Local Best: 912.000000;Current Best: 912.000000;time: 23.084193
+Iteration: 5;Local Best: 912.000000;Current Best: 912.000000;time: 22.607702
+Iteration: 6;Local Best: 912.000000;Current Best: 912.000000;time: 21.200919
+Iteration: 7;Local Best: 912.000000;Current Best: 912.000000;time: 21.733432
+Iteration: 8;Local Best: 912.000000;Current Best: 912.000000;time: 21.958501
+Iteration: 9;Local Best: 912.000000;Current Best: 912.000000;time: 23.057369
+Iteration: 10;Local Best: 912.000000;Current Best: 912.000000;time: 24.007095
+Iteration: 11;Local Best: 912.000000;Current Best: 912.000000;time: 25.452270
+Iteration: 12;Local Best: 912.000000;Current Best: 912.000000;time: 25.496914
+Iteration: 13;Local Best: 912.000000;Current Best: 912.000000;time: 26.906792
+Iteration: 14;Local Best: 912.000000;Current Best: 912.000000;time: 26.178490
+Iteration: 15;Local Best: 912.000000;Current Best: 912.000000;time: 26.791250
+Iteration: 16;Local Best: 918.000000;Current Best: 918.000000;time: 64.481578
+
+QPLIB_3650.qs 946 0.00273657 918 598.30s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 912.000000;Current Best: 912.000000;time: 168.918209
+Iteration: 2;Local Best: 912.000000;Current Best: 912.000000;time: 25.421730
+Iteration: 3;Local Best: 912.000000;Current Best: 912.000000;time: 24.951611
+Iteration: 4;Local Best: 914.000000;Current Best: 914.000000;time: 44.442307
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 23.179575
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 24.261723
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 23.683567
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 23.459799
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 23.661575
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 24.352077
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 23.506812
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 23.022947
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 24.522769
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 23.829649
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 23.118904
+Iteration: 16;Local Best: 914.000000;Current Best: 914.000000;time: 24.138841
+Iteration: 17;Local Best: 914.000000;Current Best: 914.000000;time: 23.711944
+
+QPLIB_3650.qs 946 0.00273657 914 572.23s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 912.000000;Current Best: 912.000000;time: 151.309252
+Iteration: 2;Local Best: 914.000000;Current Best: 914.000000;time: 30.484711
+Iteration: 3;Local Best: 914.000000;Current Best: 914.000000;time: 25.598032
+Iteration: 4;Local Best: 914.000000;Current Best: 914.000000;time: 25.532731
+Iteration: 5;Local Best: 914.000000;Current Best: 914.000000;time: 24.473631
+Iteration: 6;Local Best: 914.000000;Current Best: 914.000000;time: 26.039361
+Iteration: 7;Local Best: 914.000000;Current Best: 914.000000;time: 26.198421
+Iteration: 8;Local Best: 914.000000;Current Best: 914.000000;time: 25.489524
+Iteration: 9;Local Best: 914.000000;Current Best: 914.000000;time: 25.204306
+Iteration: 10;Local Best: 914.000000;Current Best: 914.000000;time: 25.694987
+Iteration: 11;Local Best: 914.000000;Current Best: 914.000000;time: 25.716516
+Iteration: 12;Local Best: 914.000000;Current Best: 914.000000;time: 26.329767
+Iteration: 13;Local Best: 914.000000;Current Best: 914.000000;time: 26.748789
+Iteration: 14;Local Best: 914.000000;Current Best: 914.000000;time: 26.925093
+Iteration: 15;Local Best: 914.000000;Current Best: 914.000000;time: 26.153199
+Iteration: 16;Local Best: 914.000000;Current Best: 914.000000;time: 24.894044
+Iteration: 17;Local Best: 914.000000;Current Best: 914.000000;time: 24.840256
+
+QPLIB_3650.qs 946 0.00273657 914 567.68s 920 920
+SA QPLIB_3650.qs
+Iteration: 1;Local Best: 918.000000;Current Best: 918.000000;time: 214.025201
+Iteration: 2;Local Best: 918.000000;Current Best: 918.000000;time: 25.067375
+Iteration: 3;Local Best: 918.000000;Current Best: 918.000000;time: 24.370232
+Iteration: 4;Local Best: 920.000000;Current Best: 920.000000;time: 23.985221
+Iteration: 5;Local Best: 920.000000;Current Best: 920.000000;time: 22.733343
+Iteration: 6;Local Best: 920.000000;Current Best: 920.000000;time: 23.016995
+Iteration: 7;Local Best: 920.000000;Current Best: 920.000000;time: 21.651448
+Iteration: 8;Local Best: 920.000000;Current Best: 920.000000;time: 22.233075
+Iteration: 9;Local Best: 920.000000;Current Best: 920.000000;time: 22.010502
+Iteration: 10;Local Best: 920.000000;Current Best: 920.000000;time: 21.642912
+Iteration: 11;Local Best: 920.000000;Current Best: 920.000000;time: 22.717650
+Iteration: 12;Local Best: 920.000000;Current Best: 920.000000;time: 22.620862
+Iteration: 13;Local Best: 920.000000;Current Best: 920.000000;time: 22.671371
+Iteration: 14;Local Best: 920.000000;Current Best: 920.000000;time: 23.270220
+Iteration: 15;Local Best: 920.000000;Current Best: 920.000000;time: 22.384626
+Iteration: 16;Local Best: 920.000000;Current Best: 920.000000;time: 21.912786
+Iteration: 17;Local Best: 920.000000;Current Best: 920.000000;time: 22.996110
+
+QPLIB_3650.qs 946 0.00273657 920 579.36s 920 920
